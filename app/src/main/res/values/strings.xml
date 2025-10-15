@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Animal Gallery</string>
+    <string name="item_name_format">%s</string>
+    <string name="item_desc_format">这是一只可爱的%s</string>
+    <string name="toast_selected">选中了：%s</string>
+    <string name="notification_title">动物图库</string>
+    <string name="notification_content">您查看了：%s</string>
+    <string name="menu_font_size">字体大小</string>
+    <string name="menu_font_small">小</string>
+    <string name="menu_font_medium">中</string>
+    <string name="menu_font_large">大</string>
+    <string name="menu_font_color">字体颜色</string>
+    <string name="menu_color_red">红色</string>
+    <string name="menu_color_black">黑色</string>
+    <string name="menu_normal">普通菜单项</string>
+    <string name="sample_text">动物图库演示文本</string>
+    <string name="custom_dialog_title">动物信息</string>
+    <string name="dialog_positive_button">确定</string>
+    <string name="dialog_negative_button">取消</string>
+    <string name="action_mode_title">已选择 %d 个动物</string>
+    <string name="action_delete">删除</string>
+    <string name="action_share">分享</string>
+    <string name="animal_cat">猫咪</string>
+    <string name="animal_dog">狗狗</string>
+    <string name="animal_elephant">大象</string>
+    <string name="animal_lion">狮子</string>
+    <string name="animal_monkey">猴子</string>
+    <string name="animal_tiger">老虎</string>
+</resources>

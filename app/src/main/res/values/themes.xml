@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 基础应用主题 -->
+    <style name="Theme.AndroidTest3" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- 主要品牌颜色 -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <!-- 深色品牌颜色 -->
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <!-- 强调色 -->
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+</resources>
