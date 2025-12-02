@@ -1,4 +1,4 @@
-<img width="660" height="315" alt="15c62756c7a751bbb03c968fbbf768b3" src="https://github.com/user-attachments/assets/00221c3c-0b1c-4dcb-ac52-e30a7cce0f05" />Android界面组件实验报告
+Android界面组件实验报告
 
 一、实验目的
 
